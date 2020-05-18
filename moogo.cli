@@ -1,0 +1,1 @@
+mongod --dbpath C:\webServer\mongodb-4.2.6\data
